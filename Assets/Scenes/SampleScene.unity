@@ -176,7 +176,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Transmutation: Level 2\n\nEffect: Dice Score + 2\n\t  Target - 2"
+  m_text: "Transmutation: Level 2\n\nEffect: Dice Score + 2\n\t  Target - 2\nCurrent:        
+    +1 -1"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -203,8 +204,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -651,7 +652,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Transmutation: Level 3\n\nEffect: Dice Score + 3\n\t  Target - 3"
+  m_text: "Transmutation: Level 3\n\nEffect: Dice Score + 3\n\t  Target - 3\nCurrent:        
+    +2 -2"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -678,8 +680,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1099,7 +1101,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Dicebending: MAX'
+  m_text: 'Dicebending: MAX
+
+
+    Current:           +6'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -1126,8 +1131,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1278,7 +1283,9 @@ MonoBehaviour:
   m_text: 'Fatemancing: Level 1
 
 
-    Effect: Target -2'
+    Effect: Target -2
+
+    Current:       -0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -1305,8 +1312,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1814,7 +1821,9 @@ MonoBehaviour:
   m_text: 'Fatemancing: Level 2
 
 
-    Effect: Target -4'
+    Effect: Target -4
+
+    Current:       -2'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -1841,8 +1850,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3264,7 +3273,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Transmutation: Level 1\n\nEffect: Dice Score + 1\n\t  Target - 1"
+  m_text: "Transmutation: Level 1\n\nEffect: Dice Score +1\n\t  Target -1\nCurrent:        
+    +0 -0"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -3291,8 +3301,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4362,7 +4372,10 @@ MonoBehaviour:
   m_text: 'Dicebending: Level 3
 
 
-    Effect: Dice Score +6'
+    Effect: Dice Score +6
+
+    Current:          
+    +4'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -4389,8 +4402,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4541,7 +4554,10 @@ MonoBehaviour:
   m_text: 'Dicebending: Level 1
 
 
-    Effect: Dice Score +2'
+    Effect: Dice Score +2
+
+    Current:          
+    +0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -4568,8 +4584,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5153,7 +5169,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Fatemancing: MAX'
+  m_text: 'Fatemancing: MAX
+
+
+    Current:       -6'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -5180,8 +5199,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5332,7 +5351,10 @@ MonoBehaviour:
   m_text: 'Dicebending: Level 2
 
 
-    Effect: Dice Score +4'
+    Effect: Dice Score +4
+
+    Current:          
+    +2'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -5359,8 +5381,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5644,7 +5666,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Transmutation: MAX'
+  m_text: 'Transmutation: MAX
+
+
+    Current:         +3 -3'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -5671,8 +5696,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5823,7 +5848,9 @@ MonoBehaviour:
   m_text: 'Fatemancing: Level 3
 
 
-    Effect: Target -6'
+    Effect: Target -6
+
+    Current:       -4'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
   m_sharedMaterial: {fileID: -8038327082596257143, guid: f26c7fd7475965946a92ad18e3688086, type: 2}
@@ -5850,8 +5877,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
